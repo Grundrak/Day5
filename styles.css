@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    display: flex;
+    width: 100%;
+}
+.logo
+{
+    width: 55px;
+    margin: 10px;
+    padding: 20px;
+}
+.Barre
+{
+background-color: #114e6a;
+margin-top: 10px;
+padding: 40px;
+width: 100%;
+
+}
+.Home , .Service , .About , .Blog , .Pricing , .Contact
+{
+    margin-right: 65px;
+    margin-left: 50px;
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.background-img
+{
+    width: 85%;
+}
+.background{
+    background-color: #114e6a;
+}
+.comm
+{
+    position: absolute;
+    top: 300px;
+    right: 110px;
+    display: flex;
+    width: 540px;
+    height: 320px;
+    background-color: #fff;
+
+}
+.Learn
+{
+    position: absolute;
+    top: 586px;
+    right: 310px;
+    width: 220px;
+    height: 75px;
+    background-color: #02b0ea;
+    color: #fff;
+    font-size: 15px;
+}
+.Txt2
+{
+vertical-align: middle;
+text-align: center;
+padding-top: 25px;
+}
+.transp
+{
+    position: absolute;
+    top: 300px;
+    right: 650px;
+    height: 320px;
+    width: 100px;
+    background-color: #02b0eaae;
+
+}
+.twitter , .instagram , .facebook , .internet 
+{
+    display: flex;
+    width: 50px;
+    padding-right: 20px;
+    height: 20px;
+    color: #fff;
+}
+.barre-logo
+{
+    display: flex;
+    background-color: #114e6a ;
+    position: absolute;
+    right: 180px;
+    top: 800px;
+}
+.Prt-final
+{
+    display: flex;
+}
+.p1
+{
+    width: 450px;
+    height: 300px;
+    display: flex;
+    margin: 100px;
+    box-shadow: 0 4px 8px 0 rgba(245, 244, 244, 0.2), 0 6px 20px 0 rgba(255, 255, 255, 0.849);
+    text-align: center;
+}
+
+section
+{
+    display: flex;
+    width: 100%;
+    height: 500px;
+
+}
+#icone
+{
+    display: flex;
+    vertical-align: middle;
+    width: 40px;
+    height: 40px;
+    padding-left: 130px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+h3
+{
+margin-bottom: 15px;
+}
+.web
+{
+    margin-top: 20px;
+ padding: 20px;
+ 
+}
+.T1 , .dev , .p3
+{
+    margin: 30px;  
+    line-height: 1.4;
+    font-size: 1rem; 
+}
+.Prt-final
+{
+    color: gray;
+    font-family: 'Bricolage Grotesque', sans-serif;
+}
+h2{
+    color: black;
+}
+.text1
+{
+    display: flex;
+    text-align: center;
+    padding: 100px;
+}
